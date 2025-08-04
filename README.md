@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🌱 I’m currently learning statistics at University of Washington
+- 🌱 I’m currently studying Statistics at University of Washington
 - 🎓 BS in Mathematics and Statistics
 - 🔍 Passionate about writing elegant programs and algorithms
 - 📖 Learning more about Back-End Development
