@@ -5,8 +5,8 @@
 - 🌱 I’m currently studying Statistics at University of Washington
 - 🎓 BS in Mathematics and Statistics
 - 🔍 Passionate about writing elegant programs and algorithms
-- 📖 Learning more about Back-End Development
-- 📫 Pursuing a career as a Software Development Engineer/ Data Engineer/ Ai Engineer
+- 📖 Learning more about Artificial Intelligence and Back-End Development and Data Warehouse
+- 📫 Pursuing a career as a Software Development Engineer/ Data Engineer/ AI Engineer
 
 ### 🛠 Tech Stack
 
