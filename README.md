@@ -1,6 +1,6 @@
 ## Hey there! I'm Bryan Ng.
 
-### 👨🏻‍💻About Me
+### 👨🏻‍💻 About Me
 
 - 🌱 I’m currently learning statistics at University of Washington
 - 🎓 BS in Mathematics and Statistics
@@ -8,7 +8,7 @@
 - 📖 Learning more about Back-End Development
 - 📫 Pursuing a career as a Software Development Engineer/ Data Engineer/ Ai Engineer
 
-### 🛠Tech Stack
+### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -19,6 +19,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🎯Work on Github
+### 🎯 Work on Github
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCW0303&layout=compact)
