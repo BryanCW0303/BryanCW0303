@@ -1,4 +1,4 @@
-# Hey there! I'm Bryan Ng.
+## Hey there! I'm Bryan Ng.
 
 ## About Me
 
