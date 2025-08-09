@@ -7,6 +7,7 @@
 - 🔍 Passionate about writing elegant code and programs
 - 📖 Learning more about Artificial Intelligence and Back-End Development and Data Warehouse
 - 📫 Pursuing a career as a Software Development Engineer/ Data Engineer/ AI Engineer
+- 🌍 Fluent in English, Japanese, Cantonese, and Mandarin 
 
 ### 🛠 Tech Stack
 
