@@ -23,4 +23,4 @@
 
 ### 🎯 Work on Github
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCW0303&layout=compact)
