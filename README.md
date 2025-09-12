@@ -39,4 +39,4 @@
 
 ### 🎯 Work on Github
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCW0303&layout=compact&cache_seconds=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCW0303&layout=compact&cache_seconds=1800)
