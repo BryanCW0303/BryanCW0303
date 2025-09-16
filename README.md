@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently studying Statistics at University of Washington
 - 🎓 BS in Mathematics and Statistics
-- 🔍 Passionate about writing elegant code and programs
+- 🔍 Passionate about writing elegant code and robust solutions
 - 📖 Learning more about AI Agent and Back-End Development
 - 📫 Pursuing a career as a Software Development Engineer/ AI Engineer
 - 🌍 Fluent in English, Japanese, Cantonese, and Mandarin 
