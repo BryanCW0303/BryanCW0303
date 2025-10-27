@@ -6,7 +6,7 @@
 - 🎓 BS in Mathematics and Statistics at Sun Yat-sen University
 - 🔍 Passionate about writing elegant code and robust solutions
 - 📖 Learning more about AI Agent and Back-End Development
-- 📫 Pursuing a career as a Software Development Engineer/ AI Engineer
+- 📫 Pursuing a career as a Software Development Engineer
 - 🌍 Fluent in English, Japanese, Cantonese, and Mandarin 
 
 ## 🛠️ Tech Stack
