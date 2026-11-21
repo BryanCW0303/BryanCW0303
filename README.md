@@ -2,8 +2,8 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🌱 I’m currently studying Statistics at University of Washington
-- 🎓 BS in Mathematics and Statistics at Sun Yat-sen University
+- 🌱 I’m currently working at a Tokyo AI startup company
+- 🎓 BS in Mathematics and Statistics at Sun Yat-sen University, MS in Statistics at University of Washington
 - 🔍 Passionate about writing elegant code and robust solutions
 - 📖 Learning more about AI Agent and Back-End Development
 - 📫 Pursuing a career as a Software Development Engineer
