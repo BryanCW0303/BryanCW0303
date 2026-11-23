@@ -5,7 +5,7 @@
 - 🌱 I’m currently working at a Tokyo AI startup company
 - 🎓 BS in Mathematics and Statistics at Sun Yat-sen University, MS in Statistics at University of Washington
 - 🔍 Passionate about writing elegant code and robust solutions
-- 📖 Learning more about AI Agent and Back-End Development
+- 📖 Learning more about AI Agent and Fullstack Development
 - 📫 Pursuing a career as a Software Development Engineer
 - 🌍 Fluent in English, Japanese, Cantonese, and Mandarin 
 
